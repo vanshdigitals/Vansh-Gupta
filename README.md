@@ -8,17 +8,17 @@
 ---
 
 ### 👀 About Me
-- 👋 Hi, I’m @vanshdigitals  
+- 👋 Hi, I'm Vansh (aka VanshDigitals)
 - 👀 I’m interested in **Full Stack Web Development** and **Creative Graphic Design**
 - 🌱 I’m currently learning **MERN Stack**, **Tailwind CSS**, and **GitHub** while building live projects
-- 💞️ I’m looking to collaborate on **frontend projects**, **UI/UX case studies**, and **open source web tools**
+- 💞️ I’m looking to collaborate on **frontend projects**, **Graphic Design**, and **open source web tools**
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I mix Canva and Code like chai and biscuit ☕💻
+- ⚡ Fun fact: I mix Designs and Code like chai and biscuit ☕💻
 
 ---
 
 ### 💻 Skills
-`HTML` `CSS` `JavaScript` `Tailwind CSS` `React` `Git` `Canva`  
+`HTML` `CSS` `JavaScript` `DOM` `React` `Git` `Canva`  
 *(More design tools coming soon...)*
 
 ---
