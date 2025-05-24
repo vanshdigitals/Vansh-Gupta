@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! I'm Vansh 👋</h1>
 
 <p align="center">
-  🔥 Full Stack Developer in Progress | Founder of <strong>VanshDigitals</strong> <br>
+  🔥 Full Stack Developer in Progress | Building my personal brand <strong>@VanshDigitals</strong> <br>
   🚀 Exploring Frontend, Backend & Creative Graphic Design | Code + Canva Combo 💻🎨
 </p>
 
