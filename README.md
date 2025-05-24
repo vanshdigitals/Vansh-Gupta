@@ -41,7 +41,6 @@
 ### 🤝 Let's Connect!
 - 💼 Portfolio (coming soon): [vanshdigitals.in](https://vanshdigitals.in)
 - 📷 Instagram: [@vanshdigitals](https://instagram.com/vanshdigitals)
-- 💌 Email: vanshdigitals@gmail.com
 
 ---
 
