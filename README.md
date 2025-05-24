@@ -2,7 +2,7 @@
 
 <p align="center">
   🔥 Full Stack Developer in Progress | Building my personal brand <strong>@VanshDigitals</strong> <br>
-  🚀 Exploring Frontend, Backend & Creative Graphic Design | Code + Canva Combo 💻🎨
+  🚀 Exploring Frontend, Backend & Creative Graphic Design | Code + Design Combo 💻🎨
 </p>
 
 ---
